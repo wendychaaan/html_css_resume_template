@@ -71,6 +71,7 @@ p {
 
 #contactDetails {
 	float: right;
+	text-align: end;
 }
 
 #contactDetails ul {
